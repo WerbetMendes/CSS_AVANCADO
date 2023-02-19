@@ -1,0 +1,17 @@
+$default-font-size: 22px;
+$primary-color: #CEFB;
+
+p {
+    font-size: $default-font-size;
+}
+
+h1 {
+    font-size: $default-font-size;
+    background-color: $primary-color;
+}
+
+div {
+    width: 200px;
+    height: 100px;
+    background-color: $primary-color;
+}

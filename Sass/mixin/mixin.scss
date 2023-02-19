@@ -1,0 +1,9 @@
+@mixin vasco {
+    background-color: red;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    @include vasco;
+}

@@ -1,0 +1,13 @@
+/* Bloco */
+/* Entidade independente com seu prórpio significado. */
+.search {color: beige;}
+
+
+/* Elemento */
+/* Descendente (e parte) de um Bloco. (por conta do underline duplo, sabemos que field faz parte do Bloco search.*/
+.search__field {color: beige;}
+
+
+/* Modificador */
+/* Um "estado" ou "versão" diferente de um Bloco ou Elemento. São representados por dois hífens.*/
+.search_field--error {color: beige;}
