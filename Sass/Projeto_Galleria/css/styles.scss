@@ -125,20 +125,14 @@ body {
 
     #card-1 {
         @include mixins.bg-img('animais.jpg');
-        background-size: cover;
-        background-repeat: no-repeat;
     }
 
     #card-2 {
         @include mixins.bg-img('arquitetura.jpg');
-        background-size: cover;
-        background-repeat: no-repeat;
     }
 
     #card-3 {
         @include mixins.bg-img('cidade.jpg');
-        background-size: cover;
-        background-repeat: no-repeat;
     }
 
     #card-4 {

@@ -129,9 +129,7 @@ body ul {
   background-position: center;
   background-repeat: no-repeat;
   filter: grayscale(100%);
-  transition: 0.6s;
-  background-size: cover;
-  background-repeat: no-repeat;
+  transition: 0.4s;
 }
 .gallery #card-1:hover {
   background-size: 110%;
@@ -144,9 +142,7 @@ body ul {
   background-position: center;
   background-repeat: no-repeat;
   filter: grayscale(100%);
-  transition: 0.6s;
-  background-size: cover;
-  background-repeat: no-repeat;
+  transition: 0.4s;
 }
 .gallery #card-2:hover {
   background-size: 110%;
@@ -159,9 +155,7 @@ body ul {
   background-position: center;
   background-repeat: no-repeat;
   filter: grayscale(100%);
-  transition: 0.6s;
-  background-size: cover;
-  background-repeat: no-repeat;
+  transition: 0.4s;
 }
 .gallery #card-3:hover {
   background-size: 110%;
@@ -174,7 +168,7 @@ body ul {
   background-position: center;
   background-repeat: no-repeat;
   filter: grayscale(100%);
-  transition: 0.6s;
+  transition: 0.4s;
 }
 .gallery #card-4:hover {
   background-size: 110%;
@@ -187,7 +181,7 @@ body ul {
   background-position: center;
   background-repeat: no-repeat;
   filter: grayscale(100%);
-  transition: 0.6s;
+  transition: 0.4s;
 }
 .gallery #card-5:hover {
   background-size: 110%;
@@ -200,7 +194,7 @@ body ul {
   background-position: center;
   background-repeat: no-repeat;
   filter: grayscale(100%);
-  transition: 0.6s;
+  transition: 0.4s;
 }
 .gallery #card-6:hover {
   background-size: 110%;
@@ -213,7 +207,7 @@ body ul {
   background-position: center;
   background-repeat: no-repeat;
   filter: grayscale(100%);
-  transition: 0.6s;
+  transition: 0.4s;
 }
 .gallery #card-7:hover {
   background-size: 110%;
@@ -226,7 +220,7 @@ body ul {
   background-position: center;
   background-repeat: no-repeat;
   filter: grayscale(100%);
-  transition: 0.6s;
+  transition: 0.4s;
 }
 .gallery #card-8:hover {
   background-size: 110%;
@@ -239,7 +233,7 @@ body ul {
   background-position: center;
   background-repeat: no-repeat;
   filter: grayscale(100%);
-  transition: 0.6s;
+  transition: 0.4s;
 }
 .gallery #card-9:hover {
   background-size: 110%;

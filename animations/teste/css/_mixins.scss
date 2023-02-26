@@ -1,0 +1,7 @@
+@mixin pulsar_animation {
+    @keyframes pulsar-animation {
+        0% {
+            box-shadow: 0 0 0 0 #ef8f6e;
+        }
+    }
+}
