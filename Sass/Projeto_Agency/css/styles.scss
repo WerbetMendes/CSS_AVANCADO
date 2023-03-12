@@ -1,4 +1,4 @@
-h1 {
-    color:rgb(233, 94, 94);
-    font-family: 'Lato', sans-serif;
-}
+@import 'variables';
+@import 'utilities';
+
+@include reset;

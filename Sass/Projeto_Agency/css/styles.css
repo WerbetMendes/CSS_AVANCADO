@@ -1,4 +1,14 @@
-h1 {
-  color: rgb(233, 94, 94);
-  font-family: "Lato", sans-serif;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lato";
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
 }/*# sourceMappingURL=styles.css.map */
