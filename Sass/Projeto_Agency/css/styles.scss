@@ -115,3 +115,27 @@
         }
     }
 }
+
+.jobs-container {
+    background-color: $secondary-bg;
+    padding: 3rem;
+
+    h2 {
+        @extend %section-title;
+    }
+
+    .jobs-list {
+        display: flex;
+        padding: 2rem 0;
+    }
+
+    .first-job {
+        width: 30%;
+        height: 415px;
+        background-image: url('../img/job1.jpg');
+        position: relative;
+        cursor: pointer;
+        transition: .5s;
+        
+    }
+}
