@@ -136,6 +136,7 @@
         position: relative;
         cursor: pointer;
         transition: .5s;
-        
+        @extend %center-bg;
+        @extend %card-hover;
     }
 }

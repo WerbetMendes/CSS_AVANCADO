@@ -8,6 +8,18 @@
   text-align: center;
 }
 
+.jobs-container .first-job {
+  background-size: cover;
+  background-position: center;
+}
+
+.jobs-container .first-job .job-card-title, .jobs-container .first-job .job-card-cover, .jobs-container .first-job .job-card-description {
+  opacity: 0;
+}
+.jobs-container .first-job:hover .job-card-title, .jobs-container .first-job:hover .job-card-cover, .jobs-container .first-job:hover .job-card-description {
+  opacity: 1;
+}
+
 .btn {
   padding: 0.6rem 1rem;
   border: 1px solid #FFF;
