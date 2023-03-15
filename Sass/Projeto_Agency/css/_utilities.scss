@@ -49,8 +49,22 @@
         .job-card-title, .job-card-cover, .job-card-description {
             opacity: 1;
         }
-    }
-    
+    } 
+}
+
+%job-card-title {
+    text-align: center;
+    color: $light-color;
+    font-size: 2.2rem;
+    transition: .5s;
+    font-weight: bold;
+}
+
+%job-card-description {
+    text-align: center;
+    color: $light-color;
+    padding: 1rem;
+    font-size: .9rem;
 }
 
 
@@ -82,5 +96,4 @@
         border-radius: 2rem;
         padding: 1rem 1.5rem;
     }
-    
 }
